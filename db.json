@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Ankit Lathiya",
+      "email": "niva@example.com",
+      "age": "27"
+    },
+    {
+      "id": "2",
+      "name": "Hello World",
+      "email": "hello@appdividend.com",
+      "age": "32"
+    },
+    {
+      "id": "3",
+      "name": "hi",
+      "email": "many@example.com",
+      "age": "30"
+    }
+  ]
+}
