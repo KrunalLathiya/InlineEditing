@@ -1,8 +1,31 @@
-# React + Vite
+# React Editable Data Table
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a React application that demonstrates how to create an editable data table using `@tanstack/react-table` and Material-UI. The table supports inline editing, saving changes, and managing the edited state of rows.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Display data in a table format with customizable columns
+- Inline editing of table cells
+- Save changes to the backend
+- Manage loading and error states
+
+## Prerequisites
+
+- Node.js (v14 or later)
+- npm (v6 or later)
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername react-editable-data-table.git
+2. Start the development server
+
+    ```bash
+    npm run dev
+3. Start the JSON server
+
+    ```bash
+    npm run server    
+
