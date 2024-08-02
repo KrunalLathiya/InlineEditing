@@ -20,11 +20,15 @@ This project is a React application that demonstrates how to create an editable 
 
    ```bash
    git clone https://github.com/yourusername react-editable-data-table.git
-2. Start the development server
+2. Install the dependencies:
+
+    ```bash
+    npm install
+3. Start the development server
 
     ```bash
     npm run dev
-3. Start the JSON server
+4. Start the JSON server
 
     ```bash
     npm run server    
